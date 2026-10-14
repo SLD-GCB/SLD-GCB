@@ -1,12 +1,15 @@
 # SLD-GCB（三闾大夫弓长帛）
 
-> 独立开发，从零做到能用 —— 手机 / 桌面 / 游戏引擎 / AI / 数据库 / 安全，全都自己写。
+> 以 AI 协作的方式做产品 —— 手机 / 桌面 / 游戏引擎 / AI / 数据库 / 安全都做过一遍，并且都做到了能跑能用。
 
 **技术栈**　`Kotlin` `Jetpack Compose` `C++` `Python` `Media3 / ExoPlayer` `Godot`
 `HLS / DASH 流媒体` `自定义网络协议` `本地大模型`
----
 
-F-Droid的存储库网址:https://github.com/SLD-GCB/SLD-GCB_f-droid
+**关于开发方式**　以下项目均为**人机协作**完成：产品定位、功能规划与技术方案由我确定；编码借助 AI 编程工具实现；**AI 产出偏离预期时，由我定位问题并推动修正**，最后打包、发布并维护到可正常使用。
+
+**我的 F-Droid 仓库**　<https://github.com/SLD-GCB/SLD-GCB_f-droid> —— 下面的安卓应用可以直接在 F-Droid 里订阅安装。
+
+---
 
 ## 📱 应用
 
@@ -16,7 +19,7 @@ F-Droid的存储库网址:https://github.com/SLD-GCB/SLD-GCB_f-droid
 
 **大司农**
 局域网传文件 + 聊天：一台开热点、另一台连上就能互传文件和消息，**不用服务器、不走互联网**，安卓 ↔ Windows 任意互通。
-`Kotlin + Python · 自研协议` → [DSN-android-windows](https://github.com/SLD-GCB/DSN-android-windows)
+`Kotlin + Python · 自定义传输协议` → [DSN-android-windows](https://github.com/SLD-GCB/DSN-android-windows)
 
 **鸿胪寺（桌面 + 安卓）**
 开箱即用的本地 AI 应用：**不装 Python、不装 CUDA，拷走就能跑**；既能角色扮演聊天，也能当编程助手（让 AI 读代码、改代码、跑命令）。
@@ -30,7 +33,7 @@ F-Droid的存储库网址:https://github.com/SLD-GCB/SLD-GCB_f-droid
 
 ## 🐉 引擎与底层　`C++`
 
-**烛龙 · 游戏开发引擎** — 自己从零写的一套游戏引擎（渲染 / 资源 / 脚本层），可直接用来开发游戏。
+**烛龙 · 游戏开发引擎** — 一套包含渲染 / 资源 / 脚本层的游戏引擎，可直接用来开发游戏。
 → [ZhuLong-game-develop-engine](https://github.com/SLD-GCB/ZhuLong-game-develop-engine)
 
 **烛龙 · 开发示例** — 用烛龙引擎做的开发示例项目。
@@ -43,7 +46,7 @@ F-Droid的存储库网址:https://github.com/SLD-GCB/SLD-GCB_f-droid
 
 ## 🤖 AI 与模型
 
-**华夏架构** — 自研的 AI 模型架构与训练工程：图像识别（MNIST / 狗品种分类）+ 文本模型原型 + 预训练 / 分词流水线。`Python`【未开源】
+**华夏架构** — AI 模型项目：图像识别（MNIST / 狗品种分类）+ 文本模型原型 + 预训练 / 分词流水线。`Python`【未开源】
 
 ---
 
