@@ -4,7 +4,7 @@
 
 **技术栈**　`Kotlin` `Jetpack Compose` `C++` `Python` `Media3 / ExoPlayer` `Godot`
 `HLS / DASH 流媒体` `自定义网络协议` `本地大模型`
-
+F-Droid的存储库网址:https://github.com/SLD-GCB/SLD-GCB_f-droid
 ---
 
 ## 📱 应用
