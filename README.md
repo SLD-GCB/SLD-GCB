@@ -58,6 +58,14 @@
 
 ---
 
+##  网页面板与配套代理工具开发
+
+**HorseBox** — 与我开发的Horse-UI配套的专属代理工具，**免安装、开箱即用**。`dart` → [HorseBox](https://github.com/SLD-GCB/HorseBox)
+
+**Horse-UI** — 我专门开发的代理服务器管理前后端面板，对垃圾线路做了优化，内存占有量低。`go`→ [HorseUI](https://github.com/SLD-GCB/Horse-UI)
+
+---
+
 ## 🎮 游戏
 
 **山海界** — 用 Godot 制作的游戏，含城邑 / 建造模块。`Godot`【未开源】
