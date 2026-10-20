@@ -74,6 +74,6 @@
 
 ## 📬 联系
 
-- 国内：`a15118102941@163.com`
-- 国外：`zhangjinrong20051017@gmail.com`
+- 中国邮箱：`a15118102941@163.com`
+- 海外邮箱：`zhangjinrong20051017@gmail.com`
 - GitHub：[@SLD-GCB](https://github.com/SLD-GCB)
