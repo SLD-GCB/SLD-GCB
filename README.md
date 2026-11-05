@@ -8,7 +8,8 @@
 **关于开发方式**　以下项目均为**人机协作**完成：产品定位、功能规划与技术方案由我确定；编码借助 AI 编程工具实现；**AI 产出偏离预期时，由我定位问题并推动修正**，最后打包、发布并维护到可正常使用。
 
 **我的 F-Droid 仓库**　<https://github.com/SLD-GCB/SLD-GCB_f-droid> —— 下面的安卓应用可以直接在 F-Droid 里订阅安装。
-
+**我的Telegrame频道**
+https://t.me/skyhorsebox
 ---
 
 ## 📱 应用
