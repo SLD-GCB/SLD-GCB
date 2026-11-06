@@ -11,7 +11,7 @@
 
 
 **我的Telegrame频道**
-https://t.me/skyhorsebox
+https://t.me/skyhorsebox，会记录我的HorseUI、HorseBox的更新
 ---
 
 ## 📱 应用
@@ -66,9 +66,15 @@ https://t.me/skyhorsebox
 
 ##  网页面板与配套代理工具开发
 
-**HorseBox** — 与我开发的Horse-UI配套的专属代理工具，**有Android&Windows双端软件由flutter+dart开发而来**。`dart` → [HorseBox](https://github.com/SLD-GCB/HorseBox)
+**HorseBox** — 与我开发的Horse-UI配套的专属代理工具，**有Android&Windows双端软件**。`dart+Flutter` → [HorseBox](https://github.com/SLD-GCB/HorseBox)
 
-**Horse-UI** — 我专门开发的代理服务器管理前后端面板，对垃圾线路做了优化，内存占有量低。`go`→ [HorseUI](https://github.com/SLD-GCB/Horse-UI)
+**Horse-UI** — 我专门开发的代理服务器管理前后端面板，对垃圾线路做了优化，内存占有量低。`go+vue`→ [HorseUI](https://github.com/SLD-GCB/Horse-UI)
+
+**SkyHorse** — 我专门开发的UDP代理协议，适用于无域名无CA证书这种环境。`go` → [SkyHorse](https://github.com/SLD-GCB/Skyhorse)
+
+**FastHorse** — 我专门开发的TCP代理协议，适用于无域名无CA证书这种环境`go`→ [FastHorse](https://github.com/SLD-GCB/FastHorse)
+
+两个协议都适配进了sing-box内核以及HorseUI和HorseBox
 
 ---
 
