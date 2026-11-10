@@ -74,6 +74,8 @@ https://t.me/skyhorsebox，会记录我的HorseUI、HorseBox的更新
 
 **FastHorse** — 我专门开发的TCP代理协议，适用于无域名无CA证书这种环境`go`→ [FastHorse](https://github.com/SLD-GCB/FastHorse)
 
+**带有天马协议和快马协议的singbox内核以及源码地址** — 带有天马和快马的协议内核`go`→ [SkyHorse-core-skyhorse_fasthorse]([https://github.com/SLD-GCB/SkyHorse-core-skyhorse_fasthorse])
+
 两个协议都适配进了sing-box内核以及HorseUI和HorseBox
 
 ---
