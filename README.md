@@ -9,7 +9,7 @@
 
 _**我的 F-Droid 仓库　<https://SLD-GCB.github.io/SLD-GCB_f-droid/repo> —— 我开发的安卓应用可以直接在 F-Droid 里订阅安装,本人开发的安卓软件都以这个为为唯一下载源**_
 
-**我的Telegrame频道https://t.me/skyhorsebox，会记录我的HorseUI、HorseBox的更新**
+**我的Telegrame频道<https://t.me/skyhorsebox>，会记录我的HorseUI、HorseBox的更新**
 
 ---
 
